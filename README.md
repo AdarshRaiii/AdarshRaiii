@@ -26,11 +26,6 @@
 - **Languages:** Python, C++  
 - **Networking:** Cisco routers (multiple series), switches, Ethernet patching  
 - **Tools:** PuTTY, Wireshark, Git, VS Code  
-| Category | Tools |
-| :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) ![Juniper](https://img.shields.io/badge/Juniper_Networks-641D5E?style=flat-square&logo=junipernetworks&logoColor=white) **Routing & Switching** |
-| **Automation** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 - **Other Skills:** Documentation, content creation, personal branding  
 
 ---
