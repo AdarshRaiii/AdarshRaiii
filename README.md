@@ -31,7 +31,7 @@ I specialize in **Python-driven network automation**, focusing on optimizing **R
 ---
 
 ### 📧 Connect with Me
-- **LinkedIn:** [Adarsh Rai on LinkedIn](https://www.linkedin.com/in/adarsh-rai-55b632230)
+- **LinkedIn:** [Adarsh Rai on LinkedIn](https://www.linkedin.com/in/adarsh-rai-1616302ba)
 - **Email:** [adarshrai7607@gmail.com](mailto:adarshrai7607@gmail.com)
 - **Portfolio:** *Coming Soon*
 
