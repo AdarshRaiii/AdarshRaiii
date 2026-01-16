@@ -40,7 +40,8 @@ A beginner-friendly Python project simulating basic banking operations:
 ---
 
 ## 📈 GitHub Stats
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshrai&show_icons=true&theme=radical)
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshRaiii&show_icons=true&theme=radical)
 
 ---
 
